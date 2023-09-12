@@ -1,3 +1,4 @@
+#This code is a casino wheel simulator
 import random 
 
 MAX_LINES = 3
