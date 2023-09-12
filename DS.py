@@ -1,4 +1,4 @@
-#This code sorts loose files from my desktop into folder ( I eventually used automator to link the script to a command on my keyboard)
+#This code sorts loose files from my desktop into folder (I eventually used automator to link the script to a command on my keyboard)
 import os 
 import shutil 
 
