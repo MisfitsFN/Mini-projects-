@@ -1,5 +1,5 @@
 # Mini-projects-
-My projects consists of: 
+My projects consists of (not in order) : 
 1. A code that sorts loose files on my desktop to my desktop folders
 2. A code that sorts loose files in my downloads to my desktop folders
 3. A code that predicts the stock prices of Ford using AI
